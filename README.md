@@ -2,7 +2,7 @@
 
 ## Solo vs Delegated Baking
 
-- [Benefits and Risks of Home Baking](https://medium.com/@obsidian.systems/benefits-and-risks-of-home-baking-a631c9ca745)
+- [Benefits and Risks of Home Baking](https://medium.com/@obsidian.systems/benefits-and-risks-of-home-baking-a631c9ca745){:target="_blank"}
 
 ## Solo Baking
 
