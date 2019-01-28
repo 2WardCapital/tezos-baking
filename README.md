@@ -6,9 +6,12 @@
 
 ## Solo Baking
 
+- [How to Run Tezos](http://tezos.gitlab.io/mainnet/introduction/howtorun.html)
+
 ### Ubuntu
 - [Tezos Mainnet — Setting Up Home Baking on Ubuntu](https://medium.com/@tezbaker.io/tezos-mainnet-setting-up-home-baking-4bf258a9fd30)
 - [Baking Tezos On A Ledger Nano S In an Ubuntu VM on Windows 10](http://www.codextezos.com/)
+
 
 
 ### Returns 
