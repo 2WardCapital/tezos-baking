@@ -6,7 +6,7 @@
 
 ## Solo Baking
 
-- [How to Run Tezos](http://tezos.gitlab.io/mainnet/introduction/howtorun.html)
+- [Running A Delegate](http://tezos.gitlab.io/mainnet/introduction/howtorun.html#running-a-delegate)
 
 ### Ubuntu
 - [Tezos Mainnet — Setting Up Home Baking on Ubuntu](https://medium.com/@tezbaker.io/tezos-mainnet-setting-up-home-baking-4bf258a9fd30)
