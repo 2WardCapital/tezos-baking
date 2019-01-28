@@ -10,3 +10,10 @@
 ### Returns 
 
 - [Expected Rewards of Solo Baking](https://medium.com/cryptium/coquito-tezem-ergo-sum-expected-rewards-from-solo-baking-tezos-fcb4616b97dc)
+
+## Delegated Baking
+
+### Choosing a Pool
+
+- [My Tezos Baker](https://mytezosbaker.com/)
+- [TZScan](https://tzscan.io/delegation-services)
