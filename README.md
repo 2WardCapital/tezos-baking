@@ -9,6 +9,10 @@
 - [Running A Delegate](http://tezos.gitlab.io/mainnet/introduction/howtorun.html#running-a-delegate)
 - [Tools to Ease a Bakers Life](https://github.com/etomknudsen/tezos-baking)
 
+### Hardware
+
+- [Tezos Hardware](https://tezoshardware.com/)
+
 ### Ubuntu
 - [Tezos Mainnet — Setting Up Home Baking on Ubuntu](https://medium.com/@tezbaker.io/tezos-mainnet-setting-up-home-baking-4bf258a9fd30)
 - [Baking Tezos On A Ledger Nano S In an Ubuntu VM on Windows 10](http://www.codextezos.com/)
