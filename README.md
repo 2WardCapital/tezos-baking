@@ -9,6 +9,7 @@
 
 - [Running A Delegate](http://tezos.gitlab.io/mainnet/introduction/howtorun.html#running-a-delegate)
 - [Tools to Ease a Bakers Life](https://github.com/etomknudsen/tezos-baking)
+- [How to build an alphanet node quickly](https://github.com/tezoscommunity/FAQ/wiki/How-to-build-an-alphanet-node-quickly)
 
 #### Hardware
 
