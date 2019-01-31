@@ -20,7 +20,12 @@
 - [Tezos Mainnet — Setting Up Home Baking on Ubuntu](https://medium.com/@tezbaker.io/tezos-mainnet-setting-up-home-baking-4bf258a9fd30)
 - [Baking Tezos On A Ledger Nano S In an Ubuntu VM on Windows 10](http://www.codextezos.com/)
 
+### Security
+
+- [Validator Security](https://github.com/w3f/validator-security)
+
 #### Troubleshooting
+
 -[Tezos Technical FAQ](https://github.com/tezoscommunity/FAQ/wiki/Tezos-Technical-FAQ)
 
 ### Delegated Baking
